@@ -27,7 +27,7 @@
   "nickNameBot": "Wasiq Bot",
   "prefix": "?",
   "database": {
-    "type": "sqlite",
+    "type": "mongodb",
     "uriMongodb": "mongodb+srv://Washik:Adnan4321@washik.ayfqxqw.mongodb.net/?appName=Washik",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true,
